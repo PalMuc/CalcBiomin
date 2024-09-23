@@ -10,8 +10,8 @@ library('circlize')
 #without needing to change paths to all inputfiles. Replace "##write" with "write" in order to 
 #produce the output files. 
 
-input_counts <- "../../inputfiles/counts_regeneration/Sci_regen_setI+II_gene_counts.tsv"
-input_sample_information <- "../../inputfiles/counts_info/info_Sci_regenI+II.csv"
+input_counts <- "../../inputfiles/count_data/counts_regeneration/Sci_regen_setI+II_gene_counts.tsv"
+input_sample_information <- "../../inputfiles/count_data/counts_info/info_Sci_regenI+II.csv"
 
 # Read data
 DE_Matrix <- read.csv(input_counts, header = TRUE, sep = "\t")

@@ -1,0 +1,4 @@
+# R Scripts for DGE Analysis with DEseq2
+
+This folder contains the R scripts we used to analyze differential gene expression between osculum and other body parts (**DESeq_Sycon_body-parts.R, DESeq_Sycon_body-parts_trancripts.R**) and regeneration stages with no spicule formation against spicule-forming stages (**DESeq2-Sycon_regen-I+II.R**) using the count data in folder **/input files/count\_data**. The file biomin\_genes.tsv maps the names of biominerlization genes against their gene ID and is used as input for plotting.
+The file **Sci\_body-parts\_over_DEGs\_osculum\_vs\_bodywall\_p001-L2FC2.csv** is an output file of DESeq\_Sycon\_body-parts.R with the gene IDs that are significantly overexpressed in the oscular region (log2-fold change ≥ 2, padj < 0.01).
