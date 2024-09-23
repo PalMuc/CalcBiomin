@@ -1,0 +1,16 @@
+condition,type,lib,sample
+GW30948_IN,body_wall,paired-end,GW30948_IN,GW30948
+GW30948_OS,osculum,paired-end,GW30948_OS,GW30948
+GW30948_OUT,body_wall,paired-end,GW30948_OUT,GW30948
+GW30951_IN,body_wall,paired-end,GW30951_IN,GW30951
+GW30951_OS,osculum,paired-end,GW30951_OS,GW30951
+GW30951_OUT,body_wall,paired-end,GW30951_OUT,GW30951
+GW30956_IN,body_wall,paired-end,GW30956_IN,GW30956
+GW30956_OS,osculum,paired-end,GW30956_OS,GW30956
+GW30956_OUT,body_wall,paired-end,GW30956_OUT,GW30956
+GW30957_IN,body_wall,paired-end,GW30957_IN,GW30957
+GW30957_OS,osculum,paired-end,GW30957_OS,GW30957
+GW30957_OUT,body_wall,paired-end,GW30957_OUT,GW30957
+GW30959_IN,body_wall,paired-end,GW30959_IN,GW30959
+GW30959_OS,osculum,paired-end,GW30959_OS,GW30959
+GW30959_OUT,body_wall,paired-end,GW30959_OUT,GW30959
