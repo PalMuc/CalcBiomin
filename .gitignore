@@ -1,0 +1,32 @@
+# R history files
+.Rhistory
+.Rapp.history
+
+# R workspace files
+.RData
+.RDataTmp
+
+# RStudio project files
+.Rproj.user/
+
+# Session-specific files
+.Ruserdata
+
+# Temporary files
+*.tmp
+*.temp
+
+# Backup files (e.g., from some editors)
+*~
+
+# macOS-specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows-specific files
+Thumbs.db
