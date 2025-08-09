@@ -5,8 +5,10 @@ library(topGO)
 library(ggplot2)
 library(reshape2)
 library (svglite)
-#define the working directory. In the repository folder, the relative path should be ".R_scripts/wcgna")
-setwd("/Users/ovoigt/Dropbox/_Calcarins/repository/R_scripts/wcgna/")
+# Complete your path to repository/R_scripts_DeSeq2 in order to repeat analyses when your currentworking directory is not the repository folder. 
+setwd("R_scripts/wgcna")
+
+
 #get normalized_counts from DESeq2
 input_counts<-"../../inputfiles/count_data/gene_counts_combined/Sci_gene_counts_combined.tsv"
 raw_counts <-read.csv(input_counts, head=T, sep="\t")

@@ -6,10 +6,11 @@ library("ComplexHeatmap")
 library("circlize")
 
 warnings()
-#setwd #complete your path to repository/R_scripts_DeSeq2 in order to repeat analyses 
-#without needing to change paths to all inputfiles. Replace "##write" with "write" in order to 
-#produce the output files. 
-#setwd("/repository/R_scripts/DESeq2")
+
+# Replace "##write" with "write" in order to #produce the output files. 
+# Complete your path to repository/R_scripts_DeSeq2 in order to repeat analyses when your currentworking directory is not the repository folder. 
+
+setwd("R_scripts/DESeq2")
 input_counts <- "../../inputfiles/count_data/counts_body_parts/Sci_body-parts_gene_counts.tsv"
 input_sample_information <- "../../inputfiles/count_data/counts_info/info_Sci_body_parts.csv"
 
