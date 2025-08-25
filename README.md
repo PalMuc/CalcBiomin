@@ -1,8 +1,9 @@
 # CalcBiomin
 
-This repository contains scripts and input data for the analyses described in the manuscript:  
+This repository contains scripts and input data for the analyses described in the paper:  
 **“Genetic parallels in biomineralization of the calcareous sponge *Sycon ciliatum* and stony corals”.**
-
+by Voigt O, Wilde MV, Fröhlich T, Fradusco B, Vargas S, Wörheide G
+A DOI will be added as soon as it is available.
 The repository is organized to replicate RNA-seq analyses (DESeq2 DGE, WGCNA), annotation, and GO enrichment.
 
 ---
