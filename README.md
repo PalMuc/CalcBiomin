@@ -4,7 +4,7 @@ This repository contains scripts and input data for the analyses described in th
 **“Genetic parallels in biomineralization of the calcareous sponge *Sycon ciliatum* and stony corals”**
 by Voigt O, Wilde MV, Fröhlich T, Fradusco B, Vargas S, Wörheide G.
 
-A DOI will be added as soon as it is available.
+DOI: https://doi.org/10.7554/eLife.106239.3
 
 The repository is organized to replicate RNA-seq analyses (DESeq2 DGE, WGCNA), annotation, and GO enrichment.
 
