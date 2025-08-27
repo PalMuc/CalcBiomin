@@ -6,7 +6,7 @@ by Voigt O, Wilde MV, Fröhlich T, Fradusco B, Vargas S, Wörheide G.
 
 DOI: https://doi.org/10.7554/eLife.106239.3
 
-The repository is organized to replicate RNA-seq analyses (DESeq2 DGE, WGCNA), annotation, and GO enrichment.
+The repository is organized to replicate RNA-seq analyses (DESeq2 DGE, WGCNA) and GO term enrichment analysis.
 
 ---
 
